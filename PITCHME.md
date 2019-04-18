@@ -17,3 +17,7 @@
 ---
 
 ## Let's talk about types of Logging
+@ul[spaced text-gray]
+- Error Logging
+- General Logging
+- Performance & Metrics
