@@ -31,3 +31,10 @@ Error Logging
 @snapend
 
 ![](assets/img/presentation.png)
+
+---?color=#DC143C
+@snap[north span-100 headline]
+Error Tracking
+@snapend
+
+![](assets/img/presentation.png)
