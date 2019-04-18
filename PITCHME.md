@@ -77,4 +77,4 @@ Structured Logging
 
 ---
 @title[Querying Logs]
-![](assets/img/code.gif)
+![](assets/img/mine.webm)
