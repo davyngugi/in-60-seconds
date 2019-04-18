@@ -2,9 +2,7 @@
 
 ---
 
-@snap[north headline]
 ## Why do we log?
-@snapend
 
 @snap[west span-55]
 @ul[spaced text-gray]
