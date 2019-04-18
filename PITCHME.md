@@ -1,5 +1,5 @@
 @snap[north span-100 headline]
-# Logging, like a star
+## Logging, like a star
 @snapend
 ![](assets/img/presentation.png)
 
