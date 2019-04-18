@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north span-100 headline]
+@snap[north headline]
 ## Why do we log?
 @snapend
 
