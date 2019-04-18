@@ -78,3 +78,7 @@ Structured Logging
 ---
 @title[Querying Logs]
 # How to query logs
+
+---
+@title[Thank You]
+![](assets/img/thanks.gif)
