@@ -14,7 +14,7 @@ Why do we log?
 @snapend
 
 @snap[east span-55]
-![](assets/img/presentation.png)
+![](assets/img/logs.jpg)
 @snapend
 
 ---
@@ -31,7 +31,7 @@ Why do we log?
 Error Logging
 @snapend
 
-![](assets/img/presentation.png)
+![](assets/img/kibana.png)
 
 ---?color=#DC143C
 @title[Error Tracking]
@@ -39,7 +39,7 @@ Error Logging
 Error Tracking
 @snapend
 
-![](assets/img/presentation.png)
+![](assets/img/sentry.png)
 
 ---
 @snap[north span-200 headline]
