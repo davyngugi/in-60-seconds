@@ -77,6 +77,4 @@ Structured Logging
 
 
 ---
-@snap[north span-200 headline]
-Querying Logs
-@snapend
+![](assets/img/presentation.png)
