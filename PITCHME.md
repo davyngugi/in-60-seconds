@@ -24,3 +24,8 @@
 - Error Logging
 - General Logging
 - Performance & Metrics
+
+---?color=#DC143C
+@snap[north span-100 headline]
+Error Logging
+@snapend
