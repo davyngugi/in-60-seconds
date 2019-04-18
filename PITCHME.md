@@ -1,8 +1,9 @@
 # Logging like a STAR
 
 ---
-
-## Why do we log?
+@snap[north]
+### Why do we log?
+@snapend
 
 @snap[west span-55]
 @ul[spaced text-gray]
@@ -39,7 +40,7 @@ Error Tracking
 
 ---
 @snap[north]
-## Fenix Standard Logging
+### Fenix Standard Logging
 @snapend
 
 @snap[west span-100]
