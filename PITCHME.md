@@ -36,3 +36,14 @@ Error Tracking
 @snapend
 
 ![](assets/img/presentation.png)
+
+---
+## Fenix Standard Logging
+@snap[west snap-100]
+@ul[spaced text-gray]
+- DEBUG - Local Development only
+- INFO - General logs
+- WARNING - Handled errors
+- Error - Quick, call the fire marshall
+- Exception - Daaaaamn!!!
+@snapend
