@@ -68,7 +68,10 @@ Structured Logging
 @fa[arrow-down]
 +++?color=#272c34 @title[Structured Logging]
 ```json
-{"msisdn": "+260961314844", "message": "Default SMS Gateway missing", "exc": "<class 'fenix.sms.models.DoesNotExist'>", "event": "queue_sms"}
+{"msisdn": "+260961314844",
+"message": "Default SMS Gateway missing",
+"exc": "<class 'fenix.sms.models.DoesNotExist'>",
+"event": "queue_sms"}
 ```
 
 
