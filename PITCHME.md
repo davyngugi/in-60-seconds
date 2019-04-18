@@ -74,4 +74,4 @@ Structured Logging
 
 ---
 @title[Querying Logs]
-![](assets/img/gitpitch-desktop.gif)
+![](assets/img/code.gif)
