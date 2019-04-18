@@ -53,3 +53,10 @@ Error Tracking
 @snapend
 
 ---
+
+@snap[north]
+### Structured Logging
+@snapend
+@ul[spaced text-gray]
+- Standard logging
+  - Like this
