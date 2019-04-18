@@ -60,6 +60,14 @@ Error Tracking
 @snap[north]
 Structured Logging
 @snapend
-@ul[spaced text-gray]
-- Standard logging
-  - `Like this`
+
+@snap[west span-55]
+Standard Logging
+
+```QUEUE_SMS ERROR: Default SMS Gateway missing for +260961314844```
+@snapend
+
+@snap[east span-55]
+Standard logging
+
+```{"msisdn": "+260961314844", "message": "Default SMS Gateway missing", "exc": "<class 'fenix.sms.models.DoesNotExist'>", "event": "queue_sms"}```
