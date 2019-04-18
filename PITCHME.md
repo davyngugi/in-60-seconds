@@ -1,4 +1,4 @@
-# Let's Get Started
+# Logging, like a star
 
 ---
 
