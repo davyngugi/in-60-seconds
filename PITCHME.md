@@ -1,4 +1,5 @@
 # Logging like a STAR
+
 ---
 
 ## Why do we Log?
