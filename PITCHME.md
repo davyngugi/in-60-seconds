@@ -29,3 +29,5 @@
 @snap[north span-100 headline]
 Error Logging
 @snapend
+
+![](assets/img/presentation.png)
