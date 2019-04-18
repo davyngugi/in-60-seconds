@@ -63,7 +63,8 @@ Structured Logging
 
 @snap[west span-55]
 Standard Logging
-
+@fa[arrow-down]
++++?color=#272c34
 ```QUEUE_SMS ERROR: Default SMS Gateway missing for +260961314844```
 @snapend
 
