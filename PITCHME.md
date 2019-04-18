@@ -42,8 +42,8 @@ Error Tracking
 ![](assets/img/presentation.png)
 
 ---
-@snap[north]
-### Fenix Standard Logging
+@snap[north span-200 headline]
+Fenix Standard Logging
 @snapend
 
 @snap[west span-100]
