@@ -68,16 +68,12 @@ Standard Logging
 QUEUE_SMS ERROR: Default SMS Gateway missing for +260961314844
 ```
 
----
-
-
-@snap[east span-55]
-Standard logging
-
+Structured Logging
+@fa[arrow-down]
++++?color=#272c34 @title[Structured Logging]
 ```
 {"msisdn": "+260961314844", "message": "Default SMS Gateway missing", "exc": "<class 'fenix.sms.models.DoesNotExist'>", "event": "queue_sms"}
 ```
-@snapend
 
 
 ---
