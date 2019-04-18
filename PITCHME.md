@@ -38,8 +38,11 @@ Error Tracking
 ![](assets/img/presentation.png)
 
 ---
+@snap[north]
 ## Fenix Standard Logging
-@snap[west snap-100]
+@snapend
+
+@snap[west span-100]
 @ul[spaced text-gray]
 - DEBUG - Local Development only
 - INFO - General logs
@@ -47,3 +50,5 @@ Error Tracking
 - Error - Quick, call the fire marshall
 - Exception - Daaaaamn!!!
 @snapend
+
+---
