@@ -1,8 +1,9 @@
 # Logging like a STAR
 
 ---
-@snap[north]
-### Why do we log?
+
+@snap[north span-100 headline]
+Why do we log?
 @snapend
 
 @snap[west span-55]
@@ -25,6 +26,7 @@
 - Performance & Metrics
 
 ---?color=#DC143C
+@title[Error Logging]
 @snap[north span-100 headline]
 Error Logging
 @snapend
@@ -32,6 +34,7 @@ Error Logging
 ![](assets/img/presentation.png)
 
 ---?color=#DC143C
+@title[Error Tracking]
 @snap[north span-100 headline]
 Error Tracking
 @snapend
@@ -55,7 +58,7 @@ Error Tracking
 ---
 
 @snap[north]
-### Structured Logging
+Structured Logging
 @snapend
 @ul[spaced text-gray]
 - Standard logging
