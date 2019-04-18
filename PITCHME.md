@@ -1,11 +1,13 @@
-@snap[north span-100 headline]
-## Logging, like a star
-@snapend
-![](assets/img/presentation.png)
-
+# Logging like a STAR
 ---
 
-## Add Some Slide Candy
+## Why do we Log?
+@snap[west span-55]
+@ul[spaced text-gray]
+- Troubleshoot
+- Visibility
+- Analysis & Insight
+@snapend
 
 ![](assets/img/presentation.png)
 
