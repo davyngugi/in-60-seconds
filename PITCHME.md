@@ -57,10 +57,6 @@ Fenix Standard Logging
 
 ---
 
-@snap[north span-100 headline]
-Structured Logging
-@snapend
-
 Standard Logging
 @fa[arrow-down]
 +++?color=#272c34 @title[Standard Logging]
@@ -71,7 +67,7 @@ QUEUE_SMS ERROR: Default SMS Gateway missing for +260961314844
 Structured Logging
 @fa[arrow-down]
 +++?color=#272c34 @title[Structured Logging]
-```
+```json
 {"msisdn": "+260961314844", "message": "Default SMS Gateway missing", "exc": "<class 'fenix.sms.models.DoesNotExist'>", "event": "queue_sms"}
 ```
 
