@@ -62,4 +62,4 @@ Structured Logging
 @snapend
 @ul[spaced text-gray]
 - Standard logging
-  - Like this
+  - `Like this`
