@@ -77,4 +77,4 @@ Structured Logging
 
 ---
 @title[Querying Logs]
-![](assets/img/mine.webm)
+# How to query logs
