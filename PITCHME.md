@@ -27,7 +27,9 @@ Why do we log?
 
 ---
 @title[Logging Tools]
-## Standing upon the shoulders of Giants
+@snap[west span-80 headline]
+Standing upon the shoulders of Giants
+@snapend
 @img[fragment](assets/img/logs.jpg)
 
 ---?color=#DC143C
