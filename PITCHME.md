@@ -25,6 +25,11 @@ Why do we log?
 - General Logging
 - Performance & Metrics
 
+---
+@title[Logging Tools]
+## Standing upon the shoulders of Giants
+@img[fragment](assets/img/logs.jpg)
+
 ---?color=#DC143C
 @title[Error Logging]
 @snap[north span-100 headline]
@@ -73,7 +78,6 @@ Structured Logging
 "exc": "<class 'fenix.sms.models.DoesNotExist'>",
 "event": "queue_sms"}
 ```
-
 
 ---
 @title[Querying Logs]
