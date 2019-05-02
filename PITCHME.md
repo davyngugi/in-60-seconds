@@ -27,10 +27,13 @@ Why do we log?
 
 ---
 @title[Logging Tools]
-@snap[west span-80 headline]
+@snap[west span-50 headline]
 Standing upon the shoulders of Giants
 @snapend
+
+@snapend[east span 30]
 @img[fragment](assets/img/logs.jpg)
+@snapend
 
 ---?color=#DC143C
 @title[Error Logging]
