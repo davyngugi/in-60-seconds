@@ -27,11 +27,10 @@ Why do we log?
 
 ---
 @title[Logging Tools]
-@snap[west span-50 headline]
-Standing upon the shoulders of Giants
-@snapend
+## Standing upon the shoulders of Giants
 
-@snapend[east span 30]
+@snapend[south span 30]
+@img[fragment](assets/img/logs.jpg)
 @img[fragment](assets/img/logs.jpg)
 @snapend
 
