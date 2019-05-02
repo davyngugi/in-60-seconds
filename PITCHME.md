@@ -1,7 +1,7 @@
 # Logging like a STAR
 
 ---
-
+@title[Why do we log]
 @snap[north span-100 headline]
 Why do we log?
 @snapend
@@ -49,6 +49,7 @@ Error Tracking
 ![](assets/img/sentry.png)
 
 ---
+@title[Fenix Standard Logging]
 @snap[north span-200 headline]
 Fenix Standard Logging
 @snapend
@@ -63,7 +64,7 @@ Fenix Standard Logging
 @snapend
 
 ---
-
+@title[Standard vs Structured Logging Example]
 Standard Logging
 @fa[arrow-down]
 +++?color=#272c34 @title[Standard Logging]
