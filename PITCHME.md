@@ -30,8 +30,8 @@ Why do we log?
 ## Standing upon the shoulders of Giants
 
 @snapend[south span 30]
-@img[fragment](assets/img/logs.jpg)
-@img[fragment](assets/img/logs.jpg)
+@img[fragment](assets/img/the-elastic-stack-thumb.png)
+@img[fragment](assets/img/sentry-logo.png)
 @snapend
 
 ---?color=#DC143C
